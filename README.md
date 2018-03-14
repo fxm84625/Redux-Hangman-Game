@@ -1,4 +1,4 @@
-# Pair programming exercise: Redux Hangman
+# Redux Hangman
 
 ## Goal
 
